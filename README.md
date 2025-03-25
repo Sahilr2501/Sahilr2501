@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Sahil Mondal!  
 
-<!--
-**Sahilr2501/Sahilr2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web Developer | Video Editor | MERN Stack Developer**  
 
-Here are some ideas to get you started:
+## About Me  
+- 🎓 **Master's in Computer Application** at Institute of Science & Technology for Advanced Studies & Research  
+- 💻 Skilled in **MERN Stack (MongoDB, Express.js, React.js, Node.js), PHP, Laravel, C/C++, HTML, CSS, Bootstrap**  
+- 🎥 **Video Editor** with experience in YouTube content creation & Instagram tournament highlights  
+- 🏸 Love **cricket, badminton, and video games**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Currently Working  
+- **Intern at NTECH Info**  
+
+## 💬 Ask Me About  
+- Web Development  
+- Video Editing  
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](#)  
+- 📷 [Instagram](#)  
+- 📧 Email: your@email.com  
+
+⚡ *Fun Fact:* I enjoy analyzing market trends & stock market updates!  
