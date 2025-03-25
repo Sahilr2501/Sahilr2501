@@ -4,7 +4,7 @@
 
 ## About Me  
 - 🎓 **Master's in Computer Application** at Institute of Science & Technology for Advanced Studies & Research  
-- 💻 Skilled in **MERN Stack (MongoDB, Express.js, React.js, Node.js), PHP, Laravel, C/C++, HTML, CSS, Bootstrap**  
+- 💻 Skilled in ** C/C++,  HTML, CSS, Bootstrap, MERN Stack (MongoDB, Express.js, React.js, Node.js), Tailwind, PHP, Laravel, MySQL**  
 - 🎥 **Video Editor** with experience in YouTube content creation & Instagram tournament highlights  
 - 🏸 Love **cricket, badminton, and video games**  
 
