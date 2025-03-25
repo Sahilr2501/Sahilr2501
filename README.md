@@ -16,8 +16,8 @@
 - Video Editing  
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](#)  
-- 📷 [Instagram](#)  
-- 📧 Email: your@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/igmsahil/)  
+- 📷 [Instagram](https://www.instagram.com/ig.msahil/)  
+- 📧 Email: sahilmondal9879@gmail.com 
 
 ⚡ *Fun Fact:* I enjoy analyzing market trends & stock market updates!  
